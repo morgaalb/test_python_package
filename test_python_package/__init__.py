@@ -1,3 +1,2 @@
 def foo():
-    print "IT'S ALIVE!"
-    
+    print("IT'S ALIVE!")
